@@ -1,4 +1,14 @@
 # e-Ballot
+
+In a bid to address digital interfaces, this E-voting application serves as a solution for
+anyone who is unable to reach the polling booth or prefers to cast his or her vote
+remotely. The greater purpose of the application is that it makes use of blockchain
+technology - hence this system is invulnerable to fraud and cyberattacks as the blocks
+of data cannot be tampered with. Blockchain makes it more secure, crucial in an
+electoral arena, where there could be a tendency to manipulate voting. The
+application primarily aims at increasing trust, efficiency, and security within the
+voting system of any kind.
+
 **
 Steps to run this project locally:**
 
