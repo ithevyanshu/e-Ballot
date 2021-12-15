@@ -47,3 +47,14 @@ npm deploy
 1. This does two things: builds & deploys smart contract to NEAR TestNet
 2. Builds & deploys frontend code to GitHub using gh-pages. This will only work if the
 project already has a repository set up on GitHub.
+
+![image](https://user-images.githubusercontent.com/69449944/146135510-b42a2381-3dc7-48b5-a756-fcf4a22cacbc.png)
+![image](https://user-images.githubusercontent.com/69449944/146135531-3bb6a8f0-6b7e-481c-83cb-f2e89b17629a.png)
+
+![image](https://user-images.githubusercontent.com/69449944/146135431-f029c2f0-dd5f-453d-84ee-427c6e39234d.png)
+![image](https://user-images.githubusercontent.com/69449944/146135470-17a53a92-b2c5-445a-8de5-acfc739411fd.png)
+
+![image](https://user-images.githubusercontent.com/69449944/146135634-07fab76d-c63e-4eb5-9d33-99ebf34be87e.png)
+![image](https://user-images.githubusercontent.com/69449944/146135644-d61b9f62-dd81-4f8b-b97f-fd32d6c4750c.png)
+
+
