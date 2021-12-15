@@ -14,6 +14,7 @@ you can run with yarn)
 where you can learn how the frontend connects to the NEAR blockchain.
 
 **Deploy:**
+
 Every smart contract in NEAR has its own associated account. When you run npm run dev,
 your smart contract gets deployed to the live NEAR TestNet with a throwaway account.
 When you're ready to make it permanent, here's how.
